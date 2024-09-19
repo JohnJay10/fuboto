@@ -2,11 +2,6 @@
 
 return [
 
-
-    'base_url' => 'http://localhost:8000',  // Replace with your actual URL
-    // Add any other configuration you need here
-
-
     /*
      * If true, the exporter will crawl through your site's pages to determine
      * the paths that need to be exported.
@@ -19,13 +14,7 @@ return [
      *
      * For example: "about", "posts/featured"
      */
-    'paths' => [
-
-       '/',
-    'about',
-    'contact',
-    'services',
-    ],
+    'paths' => [],
 
     /*
      * Files and folders that should be included in the build. Expects
