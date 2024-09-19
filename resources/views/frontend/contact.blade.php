@@ -59,9 +59,9 @@
                     <div class="div-social">
                         <h1 class="social">Our Social Media Handles </h1>
                        
-                        <h3 class="icon"> <i class="fab fa-facebook " ></i>  Facebook</h3>
-                        <h3 class="icon"> <i class="fab fa-linkedin-square " ></i>  Linkedin</h3>
-                        <h3 class="icon"> <i class="fab fa-twitter-square " ></i>  Twitter</h3>
+                        <h3 class="icon"> <a href="https://www.facebook.com/profile.php?id=100063654715830 "><i class="fab fa-facebook " ></i>  Facebook</a></h3>
+                        <h3 class="icon"> <a href=""><i class="fab fa-linkedin-square " ></i>  Linkedin</a></h3>
+                        <h3 class="icon"> <a href="https://x.com/FubotolTech"><i class="fab fa-twitter-square " ></i>  Twitter</a></h3>
 
                     </div>
                     

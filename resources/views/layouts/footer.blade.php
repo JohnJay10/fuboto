@@ -48,9 +48,9 @@
                         <h3>Social</h3>
                     </div>
                     <ul class="footer-links">
-                        <li><a href="#"><i class="fab fa-facebook"></i> Facebook</a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=100063654715830"><i class="fab fa-facebook"></i> Facebook</a></li>
                         <li><a href="#"><i class="fab fa-linkedin-square"></i>LinkedIn</a></li>
-                        <li><a href="#"><i class="fab fa-twitter-square"></i> Twitter </a></li>
+                        <li><a href="https://x.com/FubotolTech"><i class="fab fa-twitter-square"></i> Twitter </a></li>
                        
                     </ul><!-- end links -->
                 </div><!-- end clearfix -->

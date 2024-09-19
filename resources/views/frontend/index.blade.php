@@ -211,16 +211,15 @@
     </div><!-- end container -->
 </div><!-- end section -->
 
-
 <div id="support" class="section wb">
     <div class="container">
         <div class="section-title text-center">
             <h3>Need Help? Sure we are Online!</h3>
-            <p class="lead">Let us give you more details about the special offer we give @ Fubotol Technology Cubes. Please fill out the form below. <br>We have satisfied clients who happy to work with us!</p>
+            <p class="lead">Let us give you more details about the special offer we give @ Fubotol Technology Cubes. Please fill out the form below. <br>We have satisfied clients who are happy to work with us!</p>
         </div><!-- end title -->
 
-    <div class="row">
-            <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-6 align-items-center justify-content-center">
                 <div class="contact_form">
                     <div id="message"></div>
                     <form id="contactform" class="row" action="" name="contactform" method="post">
@@ -249,9 +248,32 @@
                     </form>
                 </div>
             </div><!-- end col -->
+            <div class="col-md-6">
+                <div class="post-media wow fadeIn">
+                    <div>
+                            <h1>Get in Touch With Us </h1>
+                            <h3>You can get across to us through the following media:</h3>
+                            <h3 class="icon"> <i class="fa fa-volume-control-phone" ></i> +234 806 7511 625</h3>
+                            <h3 class="icon"> <i class="fa fa-envelope " ></i>   fubotol@gmail.com</h3>
+                            <h3 class="icon"> <i class="fa fa-location-arrow " ></i>   B86 Grow Home, Chikakore, Kubwa, Abuja FCT, Nigeria</h3>
+                    </div>
+
+                    <div class="div-social">
+                        <h1 class="social">Our Social Media Handles </h1>
+                       
+                        <h3 class="icon"> <a href="https://www.facebook.com/profile.php?id=100063654715830 "><i class="fab fa-facebook " ></i>  Facebook</a></h3>
+                        <h3 class="icon"> <a href=""><i class="fab fa-linkedin-square " ></i>  Linkedin</a></h3>
+                        <h3 class="icon"> <a href="https://x.com/FubotolTech"><i class="fab fa-twitter-square " ></i>  Twitter</a></h3>
+
+                    </div>
+                    
+                   
+                </div><!-- end media -->
+            </div><!-- end col -->
         </div><!-- end row -->
     </div><!-- end container -->
 </div><!-- end section -->
+
 
 
 
